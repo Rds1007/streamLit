@@ -1,0 +1,16 @@
+(streamLit) C:\Users\Ramdhan\PycharmProjects\streamLit>streamlit run app1.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.12:8501
+
+[0]
+[1]
+[1]
+
+To prepare env do the follwoing:
+1. conda create --name myenv Or you can create File ->New Project
+2. conda activate myenv   -> Go to the directory where new project is and do activate the env
+3. pip install streamlit
+4. To execute:  streamlit run app1.py
